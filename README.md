@@ -8,9 +8,9 @@
 |[中华古籍智慧化服务平台](websites/中华古籍智慧化服务平台.md) [🔗](https://guji.nlc.cn/) |由国家图书馆牵头、联动全国古籍收藏单位共同建设的古籍智慧服务平台，整合了1万余种、10万余册古籍数字化资源，无需注册即可浏览全文影像。大部分古籍提供未标点全文 | 公共资源（免费开放） | 手动下载 | 文本 + 影像|
 |[中国哲学书电子化计划](websites/中国哲学书电子化计划.md) [🔗](https://ctext.org/zh/)|中国哲学书电子化计划（简称 ctext）是一个致力于在线保存、检索及研究中国历代典籍的数字图书馆暨学术平台。收藏的文本已超过三万部著作，约有五十亿字之多。 | [版权声明](https://ctext.org/faq#librarycopyright)| 手动下载 | 文本 + 影像|
 |[识典古籍](websites/识典古籍.md) [🔗](https://www.shidianguji.com/)|识典古籍是由字节跳动联合北京大学推出的数字化古籍阅读与整理平台。已累计上线超过 5.2 万部古籍资源| 未知| 手动下载 | 文本 + 影像|
-|[维基文库](websites/维基文库.md) [🔗](https://zh.wikisource.org/) |维基文库（Wikisource）是一个由维基媒体基金会运营、旨在保存并提供自由内容的数字化源文本（如古籍、法律条文、历史文献等）的在线图书馆。 | CC BY-SA 4.0| WikiMedi API | 文本|
+|[维基文库](websites/维基文库.md) [🔗](https://zh.wikisource.org/) |维基文库（Wikisource）是一个由维基媒体基金会运营、旨在保存并提供自由内容的数字化源文本（如古籍、法律条文、历史文献等）的在线图书馆。 | CC BY-SA 4.0| MediaWiki API | 文本|
 |[维基共享资源](websites/维基共享资源.md) [🔗](https://commons.wikimedia.org/) |维基共享资源（Wikimedia Commons）是由维基媒体基金会运营的自由媒体文件库，收录超过1亿个自由许可的图片、音频和视频资源，包含大量来自各大图书馆和博物馆的数字化古籍影像。 | CC BY-SA / 公有领域 | Wikimedia API | 影像|
-|[Internet Archive](websites/Internet Archive.md) [🔗](https://archive.org/) |互联网档案馆（Internet Archive）是一个非营利数字图书馆，致力于大规模图书数字化扫描工作，已收录数百万册图书的扫描影像，是获取古籍扫描件的重要来源。 | 公有领域 / 各资源各异 | IIIF | 影像|
+|[Internet Archive](websites/Internet Archive.md) [🔗](https://archive.org/) |互联网档案馆（Internet Archive）是一个非营利数字图书馆，致力于大规模图书数字化扫描工作，已收录数百万册图书的扫描影像，是获取古籍扫描件的重要来源。 | 公有领域 / 各资源各异 | IIIF / bookget | 影像|
 
 ## 数字图书馆
 

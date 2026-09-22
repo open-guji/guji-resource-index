@@ -2,7 +2,7 @@
 
 按照 `websites/模板.md` 的格式，调研并完善一个古籍网站的信息文档。
 
-目标文件：`websites/一手资料/$ARGUMENTS.md`（收藏机构自行数字化发布的站点）或 `websites/二手资料/$ARGUMENTS.md`（转载/汇集/整理他处资料的站点），先判定类别再落位。
+目标文件：`websites/收藏机构/$ARGUMENTS.md`（收藏机构自行数字化发布的站点）或 `websites/整理平台/$ARGUMENTS.md`（转载/汇集/整理他处资料的站点），先判定类别再落位。
 
 ## 文档结构
 
@@ -178,7 +178,7 @@
 ## 参考资料
 
 - 模板：`websites/模板.md`
-- 已完成的示例：`websites/一手资料/哈佛大学图书馆.md`（结构最完整的参考）
+- 已完成的示例：`websites/收藏机构/哈佛大学图书馆.md`（结构最完整的参考）
 - bookget wiki（网站URL）：https://github.com/deweizhu/bookget/wiki/04.%E5%8F%AF%E7%94%A8%E7%9A%84%E7%BD%91%E7%AB%99URL
 - bookget wiki（IIIF）：https://github.com/deweizhu/bookget/wiki/05.IIIF%E6%A0%87%E5%87%86%E7%BD%91%E7%AB%99URL
 - bookget 源码：https://github.com/deweizhu/bookget/tree/main/app

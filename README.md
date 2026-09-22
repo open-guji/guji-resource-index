@@ -89,8 +89,9 @@
 | 网站 | 简介 | 版权 | 下载 | 资源类型 |
 |:--- |:--- | :---| :--- | :--- |
 |[中国哲学书电子化计划](websites/整理平台/中国哲学书电子化计划.md) [🔗](https://ctext.org/zh/)|中国哲学书电子化计划（简称 ctext）是一个致力于在线保存、检索及研究中国历代典籍的数字图书馆暨学术平台。收藏的文本已超过三万部著作，约有五十亿字之多。 | [版权声明](https://ctext.org/faq#librarycopyright)| 手动下载 | 文本 + 影像|
+|[CBETA 电子佛典](websites/整理平台/CBETA.md) [🔗](https://cbetaonline.dila.edu.tw/)|中华电子佛典（CBETA）以《大正藏》《卍續藏》《嘉興藏》等刊本为底本校录并加新式标点的汉文佛典电子全文，2026.R2 版收 4,899 部 22,150 卷；法鼓文理学院提供在线阅读与开放 API，原始 TEI XML 公开于 GitHub。 | [CC BY-NC-SA 4.0（部分著作集除外）](https://www.cbeta.org/copyright) | API / GitHub XML / IIIF | 文本 + 影像（部分藏经）|
 |[如是我闻](websites/整理平台/如是我闻.md) [🔗](https://rushiwowen.co/)|基于 CBETA 等来源的佛教典籍在线阅读与检索平台，站方说明总收录 4,515 部典籍，提供古文原文、现代白话译文和明确标注的 AI 辅助解读。 | 原典依各来源授权 | 部分站内导出 | 文本|
-|[识典古籍](websites/整理平台/识典古籍.md) [🔗](https://www.shidianguji.com/)|识典古籍是由字节跳动联合北京大学推出的数字化古籍阅读与整理平台。已累计上线超过 5.2 万部古籍资源| 未知| 手动下载 | 文本 + 影像|
+|[识典古籍](websites/整理平台/识典古籍.md) [🔗](https://www.shidianguji.com/)|识典古籍是字节跳动与北京大学数字人文研究中心合作建设的古籍检索、阅读与整理平台，提供繁体标点整理文本、原书影像对照和 AI 白话译文，截至 2026 年 7 月已免费公开超 7 万部古籍。| [用户服务协议](https://www.shidianguji.com/protocol/page)（禁止抓取）| 仅在线阅读 | 文本 + 影像|
 |[维基文库](websites/整理平台/维基文库.md) [🔗](https://zh.wikisource.org/) |维基文库（Wikisource）是一个由维基媒体基金会运营、旨在保存并提供自由内容的数字化源文本（如古籍、法律条文、历史文献等）的在线图书馆。 | CC BY-SA 4.0| MediaWiki API | 文本|
 |[维基共享资源](websites/整理平台/维基共享资源.md) [🔗](https://commons.wikimedia.org/) |维基共享资源（Wikimedia Commons）是由维基媒体基金会运营的自由媒体文件库，收录超过1亿个自由许可的图片、音频和视频资源，包含大量来自各大图书馆和博物馆的数字化古籍影像。 | CC BY-SA / 公有领域 | Wikimedia API | 影像|
 |[Internet Archive](websites/整理平台/Internet Archive.md) [🔗](https://archive.org/) |互联网档案馆（Internet Archive）是一个非营利数字图书馆，致力于大规模图书数字化扫描工作，已收录数百万册图书的扫描影像，是获取古籍扫描件的重要来源。 | 公有领域 / 各资源各异 | IIIF / bookget | 影像|

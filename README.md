@@ -13,19 +13,15 @@
 
 ## 数字图书馆
 
-### 中国地区
+### 中国大陆
 | 网站 | 简介 | 版权 | 下载 |
 |:--- |:--- | :---| :--- |
 |[中华古籍智慧化服务平台](websites/收藏机构/中华古籍智慧化服务平台.md) [🔗](https://guji.nlc.cn/) |由国家图书馆牵头、联动全国古籍收藏单位共同建设的古籍智慧服务平台，整合了1万余种、10万余册古籍数字化资源，无需注册即可浏览全文影像。大部分古籍提供未标点全文 | 公共资源（免费开放） | 手动下载 |
 |[国家图书馆·中华古籍资源库](websites/收藏机构/中国国家图书馆.md) [🔗](http://read.nlc.cn/thematDataSearch/toGujiIndex) |国家图书馆建设的综合性古籍特藏数字资源平台，提供约10万部（件）古籍数字化资源，涵盖善本、普通古籍、甲骨、敦煌文献、碑帖拓片、地方志、家谱等 | [免费开放·禁止商用](https://www.nlc.cn/web/dzzn/ds_bjyxz/index.shtml) | 手动下载 |
-|[香港中文大学图书馆·中国古籍库](websites/收藏机构/香港中文大学图书馆.md) [🔗](https://repository.lib.cuhk.edu.hk/sc/collection/chi-rarebook) |收藏善本一千多种、古籍六千多种，已有超过6,200册、近百万张全文图像 | [CC BY-NC-ND 4.0](https://repository.lib.cuhk.edu.hk/en/collection/etd/terms) | 手动下载 |
-|[香港科技大学图书馆·古籍与特藏](websites/收藏机构/香港科技大学图书馆.md) [🔗](https://lbezone.hkust.edu.hk/rse/) |收藏包括自16世纪起的欧洲古地图、清末民初线装书、西方旅行记等 | [CC BY-NC-ND 3.0](https://lbezone.hkust.edu.hk/rse/?page_id=131) | 手动下载 |
-|[香港大学数字图书馆](websites/收藏机构/香港大学数字图书馆.md) [🔗](https://digitalrepository.lib.hku.hk/) |港大图书馆数字资源平台，含馮平山圖書館善本约116种 | Copyright © HKU | IIIF / bookget |
 |[广州大典](websites/收藏机构/广州大典.md) [🔗](https://gzdd.gzlib.org.cn/) |大型地方文献丛书数据库，收录4064种文献共520册，按经、史、子、集、丛五部分类 | 未明确（需注册访问） | 手动下载 |
 |[深圳市古籍数字图书馆](websites/收藏机构/深圳市古籍数字图书馆.md) [🔗](https://yun.szlib.org.cn/stgj2021/) |深圳图书馆建设的古籍数字化平台，提供馆藏古籍在线阅览 | 待确认 | bookget |
 |[洛阳市图书馆](websites/收藏机构/洛阳市图书馆.md) [🔗](http://111.7.82.29:8090/index.php) |洛阳市图书馆自建的馆藏珍贵古籍全文数据库，提供古籍PDF在线阅读 | 未明确标注 | bookget |
 |[温州市图书馆（瓯越记忆）](websites/收藏机构/温州市图书馆.md) [🔗](https://oyjy.wzlib.cn/pdf/) |"瓯越记忆"平台，提供温州地方古籍在线阅读与PDF下载 | 未明确标注 | PDF下载 |
-|[臺灣華文電子書庫](websites/收藏机构/臺灣華文電子書庫.md) [🔗](https://taiwanebook.ncl.edu.tw/zh-tw) |臺灣國家圖書館建設的1911-1949年間出版書籍數位化平台 | 免費開放閱覽 | bookget |
 |[中华寻根网](websites/收藏机构/中华寻根网.md) [🔗](http://ouroots.nlc.cn/) |国家图书馆与澳门基金会合作建设的中华族谱服务平台 | 免费开放浏览 | bookget |
 |[国家哲学社会科学文献中心（古籍）](websites/收藏机构/国家哲学社会科学文献中心.md) [🔗](https://www.ncpssd.cn/Literature/ancientbooklist?nav=5) |中国社会科学院图书馆建设的国家级古籍影像开放平台 | 未明确（免费开放） | bookget |
 |[云南数字方志馆](websites/收藏机构/云南数字方志馆.md) [🔗](http://dfz.yn.gov.cn/record/home) |云南省地方志编纂委员会建设的地方志数字化平台 | 免费公开访问 | bookget |
@@ -34,7 +30,21 @@
 |[中央美術學院圖書館](websites/收藏机构/中央美術學院圖書館.md) [🔗](http://dlib.cafa.edu.cn/) |中央美术学院数字图书馆，以美术史和书画艺术类文献为主 | 仅供在线阅览 | IIIF / bookget |
 |[抗日战争与近代中日关系文献数据平台](websites/收藏机构/抗日战争与近代中日关系文献数据平台.md) [🔗](https://www.modernhistory.org.cn/) |中国社科院近代史研究所主办的公益性近代文献数据平台 | 公益开放，永久免费 | bookget |
 
-### 欧美地区
+### 香港、澳門
+
+| 网站 | 简介 | 版权 | 下载 |
+|:--- |:--- | :---| :--- |
+|[香港中文大学图书馆·中国古籍库](websites/收藏机构/香港中文大学图书馆.md) [🔗](https://repository.lib.cuhk.edu.hk/sc/collection/chi-rarebook) |收藏善本一千多种、古籍六千多种，已有超过6,200册、近百万张全文图像 | [CC BY-NC-ND 4.0](https://repository.lib.cuhk.edu.hk/en/collection/etd/terms) | 手动下载 |
+|[香港科技大学图书馆·古籍与特藏](websites/收藏机构/香港科技大学图书馆.md) [🔗](https://lbezone.hkust.edu.hk/rse/) |收藏包括自16世纪起的欧洲古地图、清末民初线装书、西方旅行记等 | [CC BY-NC-ND 3.0](https://lbezone.hkust.edu.hk/rse/?page_id=131) | 手动下载 |
+|[香港大学数字图书馆](websites/收藏机构/香港大学数字图书馆.md) [🔗](https://digitalrepository.lib.hku.hk/) |港大图书馆数字资源平台，含馮平山圖書館善本约116种 | Copyright © HKU | IIIF / bookget |
+
+### 台灣
+
+| 网站 | 简介 | 版权 | 下载 |
+|:--- |:--- | :---| :--- |
+|[臺灣華文電子書庫](websites/收藏机构/臺灣華文電子書庫.md) [🔗](https://taiwanebook.ncl.edu.tw/zh-tw) |臺灣國家圖書館建設的1911-1949年間出版書籍數位化平台 | 免費開放閱覽 | bookget |
+
+### 欧美
 | 网站 | 简介 | 版权 | 下载 |
 |:--- |:--- | :---| :--- |
 |[哈佛大学图书馆 - Chinese Rare Books](websites/收藏机构/哈佛大学图书馆.md) [🔗](https://curiosity.lib.harvard.edu/chinese-rare-books) |哈佛燕京图书馆中文善本特藏数字化，西方最大中文善本收藏之一 | CC BY 4.0 | IIIF / bookget |
@@ -49,8 +59,9 @@
 |[FamilySearch - 家譜圖像](websites/收藏机构/FamilySearch家譜圖像.md) [🔗](https://www.familysearch.org/search/image/index) |家谱缩微胶片数字化图像浏览合集 | 免费访问（需注册） | bookget |
 |[柏克莱加州大学东亚图书馆](websites/收藏机构/柏克莱加州大学东亚图书馆.md) [🔗](https://digicoll.lib.berkeley.edu/) |北美最大宋元刻本收藏地之一，355+部已上线 | 公共领域资料可自由使用 | IIIF / bookget |
 |[奥地利国家图书馆（ONB）](websites/收藏机构/奥地利国家图书馆.md) [🔗](https://onb.digital/) |奥地利最大图书馆，约1342件中文资源含耶稣会珍品 | CC BY-SA 4.0 / 公共领域 | IIIF / bookget |
+|[國際敦煌項目（IDP）](websites/收藏机构/國際敦煌項目.md) [🔗](https://idp.bl.uk/) |丝绸之路东段出土手稿、绘画、纺织品等文物的国际数字化合作项目 | 学术研究和个人学习使用 | bookget |
 
-### 日本地区
+### 日本
 | 网站 | 简介 | 版权 | 下载 |
 |:--- |:--- | :---| :--- |
 |[京都大学贵重资料数字档案](websites/收藏机构/京都大学图书馆.md) [🔗](https://rmda.kulib.kyoto-u.ac.jp/) |日本最大规模大学数字馆藏之一，收录国宝、重要文化财等珍贵古籍 | 免费使用（需注明出处） | IIIF / bookget |
@@ -73,10 +84,9 @@
 |[龍谷大學圖書館「龍谷蔵」](websites/收藏机构/龍谷大學圖書館.md) [🔗](https://da.library.ryukoku.ac.jp/) |佛教典籍、真宗文献等贵重资料约6,369种全页图像 | 待确认 | IIIF / bookget |
 |[東北大學 - 狩野文庫](websites/收藏机构/東北大學狩野文庫.md) [🔗](https://touda.tohoku.ac.jp/collection/database/library/collection/kano) |狩野亨吉旧藏约10.8万册，被誉为"古典百科全书" | CC BY 4.0 | IIIF / bookget |
 
-### 其它地区
+### 其他地区
 | 网站 | 简介 | 版权 | 下载 |
 |:--- |:--- | :---| :--- |
-|[國際敦煌項目（IDP）](websites/收藏机构/國際敦煌項目.md) [🔗](https://idp.bl.uk/) |丝绸之路东段出土手稿、绘画、纺织品等文物的国际数字化合作项目 | 学术研究和个人学习使用 | bookget |
 |[奎章閣](websites/收藏机构/奎章閣.md) [🔗](https://kyujanggak.snu.ac.kr/) |首尔大学下属韩国学研究机构，收藏超30万件朝鲜王朝文献资料 | 学术研究使用 | bookget |
 |[高丽大学海外韩国学资料中心](websites/收藏机构/高丽大学.md) [🔗](http://kostma.korea.ac.kr/) |收集、数字化散布在海外的韩国学相关古文献资料 | 学术研究使用 | bookget |
 |[俄罗斯国家图书馆（NLR）](websites/收藏机构/俄罗斯国家图书馆.md) [🔗](https://nlr.ru/) |圣彼得堡历史最悠久的俄罗斯国家图书馆，馆藏超3700万件 | 数字化资源公开访问 | 手动下载 |
